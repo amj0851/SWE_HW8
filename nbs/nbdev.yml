@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SWE_HW8"
+  site-url: "https://amj0851.github.io/SWE_HW8"
+  description: "Tutorial 8 for SWE"
+  repo-branch: main
+  repo-url: "https://github.com/amj0851/SWE_HW8"
